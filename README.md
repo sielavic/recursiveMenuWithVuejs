@@ -1,4 +1,4 @@
-# vue-norbit
+# vue
 
 ## Project setup
 ```
